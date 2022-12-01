@@ -1,0 +1,15 @@
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\bin\Debug\net6.0\HomeworkTask8.exe
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\bin\Debug\net6.0\HomeworkTask8.deps.json
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\bin\Debug\net6.0\HomeworkTask8.runtimeconfig.json
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\bin\Debug\net6.0\HomeworkTask8.dll
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\bin\Debug\net6.0\HomeworkTask8.pdb
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.csproj.AssemblyReference.cache
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.AssemblyInfoInputs.cache
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.AssemblyInfo.cs
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.csproj.CoreCompileInputs.cache
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.dll
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\refint\HomeworkTask8.dll
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.pdb
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\HomeworkTask8.genruntimeconfig.cache
+C:\Users\Sem\Desktop\Gr3588\Gr3588\HomeworkTask8\obj\Debug\net6.0\ref\HomeworkTask8.dll
